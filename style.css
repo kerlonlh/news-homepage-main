@@ -26,7 +26,5 @@ header nav a{
     text-decoration: none;
 }
 header nav a:active{
-    padding-top: 5%;
-    padding-bottom: 3%;
     color: orange;
 }
