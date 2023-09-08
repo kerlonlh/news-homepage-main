@@ -11,6 +11,18 @@ body{
 }
 header{
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-between;
+}
+
+header nav{
+    align-self: center;
+    min-width: 350px;
+}
+header nav a{
+    padding: 0% 2%;
+    text-decoration: none;
+}
+header nav a:active{
+    color: orange;
 }
