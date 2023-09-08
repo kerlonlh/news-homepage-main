@@ -13,6 +13,8 @@ header{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    padding-top: 5%;
+    padding-bottom: 3%;
 }
 
 header nav{
@@ -24,5 +26,7 @@ header nav a{
     text-decoration: none;
 }
 header nav a:active{
+    padding-top: 5%;
+    padding-bottom: 3%;
     color: orange;
 }
