@@ -28,3 +28,16 @@ header nav a{
 header nav a:active{
     color: orange;
 }
+
+
+article{
+    display: flex;
+}
+
+.section_flex_left{
+    width: 80%;
+}
+
+.img_web_mobile{
+    width: 100%;
+}
