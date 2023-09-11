@@ -32,10 +32,13 @@ header nav a:active{
 
 article{
     display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .section_flex_left{
-    width: 70%;
+    margin: auto;
+    width: 68%;
 }
 
 .img_web_mobile{
@@ -45,7 +48,8 @@ article{
 }
 
 .section_flex_right{
-    width: 30%;
+    width: 28%;
+    margin: 0% 1%;
     padding: 0px 10px;
     background-color: black;
     color: white;
