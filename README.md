@@ -60,8 +60,5 @@ You can host your site using one of these solutions or any of our other trusted 
 
 ## Submitting your solution
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-## Sharing your solution
 
 
